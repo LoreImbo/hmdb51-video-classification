@@ -3,7 +3,8 @@
 
 
 GOAL: Develope a classification algorithm (LRCN) that exploits the main deep learning techniques in order to predict and recognize the simplest human actions.
-
+ 
+ Check out the [report](https://github.com/LoreImbo/hmdb51-video-classification/blob/513476b621053613ae8424d3c72f5e7decf54620/Report/DLproject.pdf)
 
 ## DATASET
 The selected dataset is named 'HMDB - Human Emotion DB'. Each observation corresponds to one video, for a total of 6849 clips. Each video has associated one of 51 possible classes, each of which identifies a specific human behavior. Moreover the classes of actions can be grouped into: 
@@ -62,12 +63,12 @@ RESULTS
 
 ## REFERENCES
 
-[1] Deep Learning Models for Human Activity Recognition https://machinelearningmastery.com/deep-learning-models-for-human-activity-recognition/
+[1] [Deep Learning Models for Human Activity Recognition](https://machinelearningmastery.com/deep-learning-models-for-human-activity-recognition/)
 
-[2] Long-term Recurrent Convolutional Networks for Visual Recognition and Description https://arxiv.org/abs/1411.4389?source=post_pagel
+[2] [Long-term Recurrent Convolutional Networks for Visual Recognition and Description](https://arxiv.org/abs/1411.4389?source=post_pagel)
 
-[3] Long-term Recurrent Convolutional Network for Video Regression https://towardsdatascience.com/long-term-recurrent-convolutional-network-for-video-regression-12138f8b4713
+[3] [Long-term Recurrent Convolutional Network for Video Regression](https://towardsdatascience.com/long-term-recurrent-convolutional-network-for-video-regression-12138f8b4713)
 
-[4] Long-term Recurrent Convolutional Networks https://jeffdonahue.com/lrcn/
+[4] [Long-term Recurrent Convolutional Networks](https://jeffdonahue.com/lrcn/)
 
-[5] Next-Generation Pose Detection with MoveNet https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html
+[5] [Next-Generation Pose Detection with MoveNet](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html)
