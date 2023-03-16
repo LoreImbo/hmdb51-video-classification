@@ -1,7 +1,6 @@
 # VIDEO CLASSIFICATION ON HMDB51 DATASET: HUMAN ACTIVITY RECOGNITION
 
 
-
 GOAL: Develope a classification algorithm (LRCN) that exploits the main deep learning techniques in order to predict and recognize the simplest human actions.
  
  Check out the [report](https://github.com/LoreImbo/hmdb51-video-classification/blob/513476b621053613ae8424d3c72f5e7decf54620/Report/DLproject.pdf)
