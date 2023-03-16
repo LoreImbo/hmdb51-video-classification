@@ -51,7 +51,7 @@ MOVENET ARCHITECTURE
 <img width="583" alt="Schermata 2023-03-16 alle 17 00 46" src="https://user-images.githubusercontent.com/96497366/225679688-abdbc201-8b36-40f4-8ab9-db7262ed827d.png">
 
 
-RESULTS
+## RESULTS
 
 | Network       | Valid Accuracy |
 | ------------- | -------------- |
