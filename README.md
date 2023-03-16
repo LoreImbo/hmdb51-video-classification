@@ -6,7 +6,12 @@ GOAL: Develope a classification algorithm (LRCN) that exploits the main deep lea
 
 
 ## DATASET
-The selected dataset is named 'HMDB - Human Emotion DB'. Each observation corresponds to one video, for a total of 6849 clips. Each video has associated one of 51 possible classes, each of which identifies a specific human behavior. Moreover the classes of actions can be grouped into: 1) general facial actions such as smiling or laughing; 2) facial actions with object manipulation such as smoking; 3) general body movements such as running; 4) body movements withi object interaction such as golfing; 5) body movements for human interaction such as kissing. 
+The selected dataset is named 'HMDB - Human Emotion DB'. Each observation corresponds to one video, for a total of 6849 clips. Each video has associated one of 51 possible classes, each of which identifies a specific human behavior. Moreover the classes of actions can be grouped into: 
+1) general facial actions such as smiling or laughing; 
+2) facial actions with object manipulation such as smoking; 
+3) general body movements such as running; 
+4) body movements withi object interaction such as golfing; 
+5) body movements for human interaction such as kissing. 
 
 Due to computational problems we have chosen only 19 classes (general body movements) on which to train the human activity recognition algorithm.
 
