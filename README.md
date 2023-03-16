@@ -16,7 +16,7 @@ The selected dataset is named 'HMDB - Human Emotion DB'. Each observation corres
 
 Due to computational problems we have chosen only 19 classes (general body movements) on which to train the human activity recognition algorithm.
 
-HMDB51 dataset site: https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/
+[HMDB51 dataset site](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
 
 ## LRCN APPROACH
 
